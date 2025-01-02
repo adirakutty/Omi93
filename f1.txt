@@ -1,0 +1,3 @@
+this is lline 1>> f1.txt
+echo this is lline 1
+ this is lline 1
